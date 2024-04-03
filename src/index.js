@@ -11,6 +11,16 @@ root.render(
   </React.StrictMode>
 );
 
+// function Bola(){
+//   const tembak = (a,e) => {
+//     alert(a);
+//     console.log(e);
+//   }
+//   return <button onClick={(event)=>tembak('goalgoal')}>tembak</button>
+// }
+// root.render(<Bola/>);
+
+
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
