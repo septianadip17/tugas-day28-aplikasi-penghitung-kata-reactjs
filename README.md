@@ -1,3 +1,8 @@
+Aplikasi Penghitung Kata
+![Screenshot 2024-04-03 150926](https://github.com/septianadip17/tugas-day28-aplikasi-penghitung-kata-reactjs/assets/88721064/a4e46b3e-b923-44e2-b233-23bb6d3b5c4a)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
